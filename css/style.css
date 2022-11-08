@@ -1,0 +1,309 @@
+/* font-family: 'Poppins', sans-serif; */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #56548C;
+}
+.hero_section{
+    background-color: #F0FFF0;
+    min-height: 50vh;
+}
+.hero-content{
+
+}
+.hero-content h5{
+    font-family: 'Poppins', sans-serif;
+color: #FD511A;
+
+font-weight: 400;
+
+font-size: 16px;
+
+line-height: 24px;
+}
+.hero-content h1{
+    font-family: 'Poppins', sans-serif;
+color: #000000;
+
+font-weight: 700;
+
+font-size: 48px;
+
+line-height: 70px;
+}
+.hero-content h1 span{
+    color: #21B573;
+}
+.hero-content p{
+    font-family: 'Poppins', sans-serif;
+color: #6C6B6B;
+
+font-weight: 400;
+
+font-size: 16px;
+
+line-height: 36px;
+}
+.btn-custom{
+    font-family: 'Poppins', sans-serif;
+color: #fff;
+    
+font-weight: 400;
+    
+font-size: 16px;
+    
+line-height: 19px;
+    
+background: #21B573;
+    
+border: 1px solid #000000;
+    
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+border-radius: 33px;
+}
+.btn-custom:hover{
+    background: #FBD15B;
+}
+.feture_content{
+
+background: #F8FFFB;
+
+padding: 30px 0;
+}
+.feture_content:hover{
+    background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.feture_content img{
+
+}
+.feture_content h2{
+
+color: #413960;
+
+font-weight: 500;
+
+font-size: 24px;
+
+line-height: 36px;
+
+margin-top: 15px;
+
+font-family: 'Poppins', sans-serif;
+}
+.feture_content p{
+    
+font-family: 'Poppins', sans-serif;
+    
+color: #585859;
+    
+font-weight: 400;
+    
+font-size: 16px;
+    
+line-height: 24px;
+}
+.course{
+
+background: #FFFFFF;
+
+padding: 20px;
+
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+
+border-radius: 18px;
+}
+.course img{
+
+}
+.course h2{
+
+color: #413960;
+
+font-weight: 500;
+
+font-size: 24px;
+
+line-height: 36px;
+
+margin-top: 20px;
+
+font-family: 'Poppins', sans-serif;
+}
+.course h5{
+
+color: #585859;
+
+font-weight: 400;
+
+font-size: 16px;
+
+line-height: 24px;
+
+font-family: 'Poppins', sans-serif;
+}
+.btn-course{
+
+font-weight: 400;
+
+font-size: 16px;
+
+line-height: 19px;
+
+color: #FFFFFF;
+
+background: #21B573;
+
+border-radius: 33px;
+
+margin:  20px 0;
+
+/* font-family: 'Poppins', sans-serif; */
+}
+.btn-course:hover{
+    background: #FBD15B;
+}
+.course ul{
+
+list-style: none;
+
+margin: 0;
+
+padding: 0;
+
+display: flex;
+
+font-family: 'Poppins', sans-serif;
+
+justify-content: space-between;
+}
+.course ul li{
+
+color: #585859;
+
+font-weight: 500;
+
+font-size: 16px;
+
+line-height: 24px;
+
+font-family: 'Poppins', sans-serif;
+}
+.course ul li i{
+
+margin-right: 8px;
+} 
+.heading h1{
+    
+color: #413960;
+    
+font-weight: 700;
+    
+font-size: 36px;
+    
+line-height: 54px;
+    
+font-family: 'Poppins', sans-serif;
+    
+text-align: center;
+}
+.clint{
+
+width: 50%;
+
+margin-left: auto;
+
+/* border: 1px solid #ffffff; */
+
+border-radius: 100px;
+
+overflow: hidden;
+}
+.clint img{
+    
+}
+.testimonial p{
+
+font-weight: 400;
+
+font-size: 16px;
+
+line-height: 30px;
+
+color: #000000;
+}
+footer{
+
+background: #282531;
+
+color: #FFFFFF;
+
+/* font-family: 'Poppins', sans-serif; */
+}
+footer p{
+
+font-weight: 400;
+
+font-size: 16px;
+
+line-height: 30px;
+
+/* font-family: 'Poppins', sans-serif; */
+}
+footer ul{
+
+list-style: none;
+
+margin: 0;
+
+padding: 0;
+}
+footer ul li{
+
+/* list-style: none; */
+
+font-weight: 200;
+
+font-size: 18px;
+
+line-height: 30px;
+}
+footer ul li:first-child{
+    font-weight: 700;
+}
+footer h2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #CDCDCD;
+    text-align: center;
+    padding-top: 40px;
+}
+.btn-signin{
+
+border-radius: 33px;
+font-family: 'Poppins', sans-serif;
+color: #fff;
+    
+font-weight: 400;
+    
+font-size: 16px;
+    
+line-height: 19px;
+    
+background: #21B573;
+}
+.btn-signin:hover{
+    background: #FBD15B;
+}
